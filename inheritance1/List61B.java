@@ -12,5 +12,4 @@ public interface List61B<Item> {
                 System.out.print(get(i) + " ");
             }
         }
-
 }
